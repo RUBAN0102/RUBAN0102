@@ -19,9 +19,8 @@ I am a **Final Year Electronics and Communication Engineering student** at **Adh
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Altium_Designer_Logo.svg" alt="Altium Designer" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/KiCad_Logo.svg" alt="KiCad Logo" width="40" height="40"/>
-  <img src="https://i.ibb.co/ZVPFZ6B/altium-designer.png" alt="Altium Designer" width="40" height="40"/>
+  <img src="https://i.ibb.co/8jmR8P9/altium-logo.png" alt="Altium Designer" width="40" height="40"/>
+
 
 
 
