@@ -9,7 +9,6 @@
 I am a **Final Year Electronics and Communication Engineering student** at **Adhiyamaan College of Engineering, Hosur**, passionate about both **hardware and software development**. My expertise lies in **Embedded Systems, IoT, and Software Development**, with a strong interest in designing real-world applications that bridge the gap between hardware and software.    
 
 ### 💻 Tech Stack : 
-### 💻 Tech Stack :
 
 <p align="left">  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>  
@@ -22,6 +21,8 @@ I am a **Final Year Electronics and Communication Engineering student** at **Adh
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>  
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Altium_Designer_Logo.svg" alt="Altium Designer" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/KiCad_Logo.svg" alt="KiCad Logo" width="40" height="40"/>
+  <img src="https://i.ibb.co/ZVPFZ6B/altium-designer.png" alt="Altium Designer" width="40" height="40"/>
+
 
 
 </p>
