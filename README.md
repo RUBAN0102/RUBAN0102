@@ -3,6 +3,8 @@
 **Electronics & Communication Engineer**  
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rubansathaiyah@gmail.com?subject=Hello%20Ruban&body=Hi%20Ruban,%0A%0AI%20want%20to%20connect%20with%20you.)
+![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altium-designer&logoColor=white)
+
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruban05/) 
 
@@ -22,9 +24,9 @@ I am a **Final Year Electronics and Communication Engineering student** at **Adh
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Altium_Logo.png/320px-Altium_Logo.png" alt="Altium Designer" width="40" height="40"/>
-  ![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat-square&logo=altium-designer&logoColor=white)
-
 </p>
+
+
 
 
 
