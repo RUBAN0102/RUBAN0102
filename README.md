@@ -22,7 +22,10 @@ I am a **Final Year Electronics and Communication Engineering student** at **Adh
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Altium_Logo.png/320px-Altium_Logo.png" alt="Altium Designer" width="40" height="40"/>
+  ![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat-square&logo=altium-designer&logoColor=white)
+
 </p>
+
 
 
 
