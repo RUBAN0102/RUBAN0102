@@ -3,10 +3,8 @@
 **Electronics & Communication Engineer**  
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rubansathaiyah@gmail.com?subject=Hello%20Ruban&body=Hi%20Ruban,%0A%0AI%20want%20to%20connect%20with%20you.)
-![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altium-designer&logoColor=white)
 
-
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruban05/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruban05/) 
 
 ### Glad to see you here!
 
@@ -28,11 +26,6 @@ I am a **Final Year Electronics and Communication Engineering student** at **Adh
 <p align="left">
   <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altium-designer&logoColor=white" alt="Altium Designer"/>
 </p>
-
-
-
-
-
   
 ### 🌐 Let's Connect  
 Feel free to reach out if you're interested in **collaborations, open-source projects, or learning together!**  
