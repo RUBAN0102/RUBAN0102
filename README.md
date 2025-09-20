@@ -13,10 +13,6 @@ I am a **Final Year Electronics and Communication Engineering student** at **Adh
   <a href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>  
   </a>  
-  <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank">
-    <img src="<img width="400" height="199" alt="image" src="https://github.com/user-attachments/assets/82999070-572e-4d30-af78-1f30ab95dd9c" />
- alt="C++" width="40" height="40"/>  
-  </a>  
   <a href="https://www.w3schools.com/python/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
   </a>  
@@ -27,8 +23,8 @@ I am a **Final Year Electronics and Communication Engineering student** at **Adh
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino IDE" width="40" height="40"/>  
   </a>  
   <a href="https://docs.espressif.com/projects/esp-idf/en/stable/esp32/get-started/index.html" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/espressif-systems.svg" alt="ESP32" width="40" height="40"/>  
-</a>
+    <img src="https://cdn.worldvectorlogo.com/logos/espressif-systems.svg" alt="ESP32" width="40" height="40"/>  
+  </a>  
   <a href="https://www.w3schools.com/sql/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>  
   </a>  
@@ -36,10 +32,13 @@ I am a **Final Year Electronics and Communication Engineering student** at **Adh
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/>  
   </a>  
   <a href="https://www.tutorialspoint.com/linux/index.htm" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>  
-</a>
-
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>  
+  </a>  
+  <a href="https://www.altium.com/altium-designer/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/altium-designer.svg" alt="Altium Designer" width="40" height="40"/>  
+  </a>  
 </p>
+
 
   
 ### 🌐 Let's Connect  
