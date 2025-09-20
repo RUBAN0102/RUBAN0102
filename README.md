@@ -21,6 +21,8 @@ I am a **Final Year Electronics and Communication Engineering student** at **Adh
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Altium_Designer_Logo.png/512px-Altium_Designer_Logo.png" alt="Altium Designer" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Altium_Designer_Logo.png" alt="Altium Designer" width="40" height="40"/>
+
 
 </p>
 
