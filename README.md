@@ -35,8 +35,9 @@ I am a **Final Year Electronics and Communication Engineering student** at **Adh
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>  
   </a>  
   <a href="https://www.altium.com/altium-designer/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/altium-designer.svg" alt="Altium Designer" width="40" height="40"/>  
-  </a>  
+  <img src="https://cdn.worldvectorlogo.com/logos/altium-designer.svg" alt="Altium Designer" width="60" height="60">
+</a>
+
 </p>
 
 
