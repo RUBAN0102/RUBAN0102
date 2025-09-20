@@ -2,7 +2,8 @@
 
 **Electronics & Communication Engineer**  
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rubansathaiyah@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rubansathaiyah@gmail.com?subject=Hello%20Ruban&body=Hi%20Ruban,%0A%0AI%20want%20to%20connect%20with%20you.)
+
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruban05/) 
 
 ### Glad to see you here!
