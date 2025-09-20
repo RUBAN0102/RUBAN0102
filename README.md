@@ -14,7 +14,8 @@ I am a **Final Year Electronics and Communication Engineering student** at **Adh
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>  
   </a>  
   <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>  
+    <img src="<img width="400" height="199" alt="image" src="https://github.com/user-attachments/assets/82999070-572e-4d30-af78-1f30ab95dd9c" />
+ alt="C++" width="40" height="40"/>  
   </a>  
   <a href="https://www.w3schools.com/python/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
