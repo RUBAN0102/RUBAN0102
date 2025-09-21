@@ -8,7 +8,9 @@
 
 ### Glad to see you here!
 
-I’m a final-year Electronics and Communication Engineering student passionate about building solutions that connect hardware and software. My expertise spans Embedded Systems, IoT, PCB Design, 3D Design, Circuitry, and Debugging, with a keen interest in innovating smart products.
+ I’m a **final-year Electronics and Communication Engineering student** passionate about building solutions that connect **hardware and software**.  
+My expertise spans **Embedded Systems**, **IoT**, **PCB Design**, **3D Design**, **Circuitry**, and **Debugging**, with a keen interest in **innovating smart products**.
+
 
 ### 💻 Tech Stack : 
 
@@ -26,6 +28,7 @@ I’m a final-year Electronics and Communication Engineering student passionate 
 ### 🛠 Tools Used  
 <p align="left">  
   <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altium-designer&logoColor=white" alt="Altium Designer"/>  
+  
   <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SolidWorks"/>  
   <img src="https://img.shields.io/badge/Proteus-1B6AC6?style=for-the-badge&logo=proteus&logoColor=white" alt="Proteus"/>  
   <img src="https://img.shields.io/badge/Keil%20uVision-39457E?style=for-the-badge&logo=arm&logoColor=white" alt="Keil uVision"/>  
@@ -46,4 +49,5 @@ I’m a final-year Electronics and Communication Engineering student passionate 
 
   
 ### 🌐 Let's Connect  
-Feel free to reach out if you're interested in **collaborations, open-source projects, or learning together!**  
+I’m always happy to **collaborate on projects**, **contribute to open-source**, or **exchange ideas and learn together**!!
+
