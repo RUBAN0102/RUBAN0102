@@ -23,7 +23,7 @@ My expertise spans **Embedded Systems**, **IoT**, **PCB Design**, **3D Design**,
 
 ---
 
-### 🛠 Tools Used  
+### 🛠 Tools Used :
 <p align="left">  
   <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altium-designer&logoColor=white" alt="Altium Designer"/>  
   
@@ -38,7 +38,7 @@ My expertise spans **Embedded Systems**, **IoT**, **PCB Design**, **3D Design**,
 
 ---
 
-### 💡 Skills  
+### 💡 Skills : 
 - PCB Design & Layout  
 - Circuit Design & Simulation  
 - Embedded Systems Development (8051, PIC, STM32, ESP32)  
