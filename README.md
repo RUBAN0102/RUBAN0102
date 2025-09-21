@@ -8,19 +8,16 @@
 
 ### Glad to see you here!
 
-I am a **Final Year Electronics and Communication Engineering student** at **Adhiyamaan College of Engineering, Hosur**, passionate about both **hardware and software development**. My expertise lies in **Embedded Systems, IoT, and Software Development**, with a strong interest in designing real-world applications that bridge the gap between hardware and software.    
+I’m a final-year Electronics and Communication Engineering student passionate about building solutions that connect hardware and software. My expertise spans Embedded Systems, IoT, PCB Design, 3D Design, Circuitry, and Debugging, with a keen interest in innovating smart products.
 
 ### 💻 Tech Stack : 
 
 ### 🚀 Tech Stack  
 <p align="left">  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>  
   <img src="https://cdn.worldvectorlogo.com/logos/espressif-systems.svg" alt="ESP32" width="40" height="40"/>  
-  <img src="https://img.shields.io/badge/FreeRTOS-002952?style=for-the-badge&logo=freertos&logoColor=white" alt="FreeRTOS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>  
 </p>  
 
