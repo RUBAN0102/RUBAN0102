@@ -20,6 +20,8 @@ My expertise spans **Embedded Systems**, **IoT**, **PCB Design**, **3D Design**,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>  
   <img src="https://cdn.worldvectorlogo.com/logos/espressif-systems.svg" alt="ESP32" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
+
 </p>  
 
 ---
